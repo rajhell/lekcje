@@ -1,0 +1,22 @@
+body {
+margin:10%;
+background-color: rgb(190, 190, 190);
+}
+h1 {
+color: rgb(144, 0, 0);
+font-family:Sans Serif;
+}
+img{
+float:right;
+padding: 2%;
+}
+p {
+font-size:10pt;
+colora: #abc;
+text-align:justify;
+}
+hr
+{
+height: 3px;
+Background-colour: rgb(0, 92, 140)
+border: 1px;
