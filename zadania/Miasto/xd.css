@@ -1,0 +1,76 @@
+body
+{
+margin: 10%;
+padding: 0pt;
+}
+#container
+{
+width: 750px;
+margin-left: auto;
+margin-right: auto;
+border: 3px solid black;
+}
+#left
+{
+width: 247px;
+float: left;
+height: 150px;
+border: 1px solid black;
+}
+#right
+{
+width: 248px;
+float: right;
+height: 149px;
+border: 1px solid black;
+}
+#main
+{
+float: left;
+height: 150px;
+width: 247px;
+border: 1px solid black;
+}
+#footer
+{
+clear: both;
+background: #c0c0c0;
+}
+#header
+{
+background: #357;
+margin-top: 10px;
+height: 150px;
+}
+#logo
+{
+float: left;
+padding: 10px;
+width: 150px;
+text-align: center;
+}
+#tytul
+{
+float: left;
+padding: 10px;
+width: 560px;
+font-size: 40px;
+color: white;
+text-align: center;
+line-height: 3;
+}
+.wybor{
+float:left;
+min-width:167px;
+padding: 10px;
+font-size: 16px;
+height: 18px;
+}
+.wybor:hover{
+background: #999;
+}
+a 
+{
+ color: rgb(0, 0, 0);
+ text-decoration: none;
+}
